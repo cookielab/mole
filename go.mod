@@ -1,4 +1,4 @@
-module github.com/davrodpin/mole/v2
+module github.com/cookielab/mole/v2
 
 go 1.14
 
