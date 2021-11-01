@@ -1,4 +1,4 @@
-module github.com/davrodpin/mole
+module github.com/davrodpin/mole/v2
 
 go 1.14
 
